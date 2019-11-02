@@ -1,0 +1,7 @@
+Активация виртуального окружения и запуск сервера:
+
+source env/bin/activate
+
+cd src
+
+python manage.py runserver
